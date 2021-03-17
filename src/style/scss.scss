@@ -1,0 +1,12 @@
+$border: 1px solid #ccc;
+.box_2{
+  padding: 1rem;
+  border-radius:5px;
+  margin-top: 1rem;
+  border: $border;
+}
+
+.box_2 h2{
+  text-align: center;
+  color: darkblue;
+}
